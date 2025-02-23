@@ -1,6 +1,13 @@
 # Machine Learning - Sound
 
-This project demonstrates the application of machine learning techniques using Processing and Wekinator to generate five distinct tones. The approach leverages a camera as the input device, capturing 400 grayscale pixels that serve as the data for training the model.
+> <mark style="background-color: #FFFF00">*Note: This project serves as **documentation** of my **learning journey** and is not intended for ongoing use or maintenance.
+> I've decided to keep the repository public to be viewed as part of my portfolio.*</mark>
+
+<br>
+
+This project demonstrates machine learning techniques using Processing and Wekinator to generate five distinct tones. The approach uses a camera as the input device, capturing 400 grayscale pixels that serve as the data for training the model.
+
+This project was developed to familiarize myself with the basics of machine learning as an introductory learning experience. It allowed me to explore the fundamentals of machine learning techniques.
 
 ## Overview
 
@@ -23,7 +30,3 @@ The following tones and their corresponding frequencies are defined for output c
 - **Machine Learning Framework:** Wekinator is used to implement the machine learning model.
 - **Programming Environment:** The project is developed using Processing, integrating machine learning output with real-time audio generation.
 - **Classification Method:** A 3-Nearest Neighbor classifier is employed to map the camera input to the appropriate tone outputs. This method was selected based on its superior performance during preliminary tests.
-
-## Project Purpose
-
-This project was developed to familiarize myself with the basics of machine learning as an introductory learning experience. It allowed me to explore the fundamentals of machine learning techniques.
