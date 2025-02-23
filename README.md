@@ -1,7 +1,7 @@
 # Machine Learning - Sound
 
-> <mark style="background-color: #FFFF00">*Note: This project serves as **documentation** of my **learning journey** and is not intended for ongoing use or maintenance.
-> I've decided to keep the repository public to be viewed as part of my portfolio.*</mark>
+> **Note:** This project serves as **documentation** of my **learning journey** and is not intended for ongoing use or maintenance.
+> I've decided to keep the repository public to be viewed as part of my portfolio.
 
 <br>
 
